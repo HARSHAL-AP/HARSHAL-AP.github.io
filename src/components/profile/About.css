@@ -1,0 +1,56 @@
+.aboutediv{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: linear-gradient(-45deg, #000000, #042f38, #040447, #000000);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    text-align: center;
+}
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.aboutme{
+    text-align: center;
+    color: aliceblue;
+}
+.myname{
+    text-align: center;
+    color: aliceblue;
+}
+.desc{
+   max-width:50%;
+    margin: auto;
+    color: aliceblue;
+    text-align: justify;
+}
+.abn{
+    width:400px;
+    margin: auto;
+}
+@media screen and (max-width: 780px) {
+    .abn{
+        width:300px;
+        margin: auto;
+    }
+    .desc{
+        max-width:90%;
+         margin: auto;
+         color: aliceblue;
+         text-align: justify;
+     }
+
+
+}
+
+
+
+

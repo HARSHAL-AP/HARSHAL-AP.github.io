@@ -1,0 +1,31 @@
+.contactbiody {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 25px;
+  background-color: rgb(4, 6, 37);
+  color: antiquewhite;
+  text-align: center;
+}
+.fa-github {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  margin-top: 20px;
+}
+.fa-linkedin {
+  color: rgb(10 102 194);
+  font-size: 30px;
+  margin-left: 15px;
+}
+.fa-envelope {
+  color: rgb(235, 101, 29);
+  font-size: 30px;
+  margin-left: 15px;
+}
+.mm {
+    color:rgb(10 102 194) ;
+    font-size: 1.5rem;
+}
+.mmyname{
+    margin-top: 20px;
+    font-size: 1rem;
+}
