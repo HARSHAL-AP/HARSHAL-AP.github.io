@@ -1,0 +1,29 @@
+.caleboady{
+width: 50%;
+
+padding: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+background-color: rgb(255, 255, 255);
+border: 2px solid black;
+border-radius: 10px;
+}
+
+@media screen and (max-width: 780px) {
+
+    .caleboady{
+        width: 95%;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        background-color: rgb(255, 255, 255);
+        border: 2px solid black;
+        border-radius: 10px;
+        }
+
+
+}

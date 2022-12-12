@@ -5,7 +5,7 @@ import Contactme from './components/Contactme/Contactme';
 import Fotter from './components/Fotter/Footer';
 import Projects from './components/Project/Projects';
 import About from './components/profile/About';
-
+import { GitHubCalendaar } from "./components/gitcalender/Gitcalender";
 function App() {
   return (
     <div className="App">
@@ -13,6 +13,7 @@ function App() {
       <Profile/>
       <About/>
      <Projects/>
+     <GitHubCalendaar/>
      <Contactme/>
       <Fotter/>
     </div>

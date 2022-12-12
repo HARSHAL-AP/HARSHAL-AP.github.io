@@ -11,5 +11,5 @@ html {
 body,button,inputarea{
   font-family: var(--body-font);
   font-size: --normal-font-size;
-  
+    background-color: rgb(10, 1, 22);
 }
