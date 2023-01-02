@@ -25,7 +25,7 @@ const Projects = () => {
           image={dreambath}
           heading="DreamBaths.com"
           desc="DreamBaths.com is a shopping website that has Products Loke Soaps, Room Freshners,Candals ,Body Spress and so more For all type of coustomer."
-          llink="loyal-horse-6020-a7ac.vercel.app"
+          llink="https://loyal-horse-6020-a7ac.vercel.app/"
           gitlink="https://github.com/arupadhyay25/loyal-horse-6020"
           reactlog="true"
           />
