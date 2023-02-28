@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5acd5171.css",
-    "main.js": "/static/js/main.3a396737.js",
+    "main.js": "/static/js/main.e76e066f.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/dreambath.jpg": "/static/media/dreambath.a64ae683eba9066f3c03.jpg",
     "static/media/bathandbody.png": "/static/media/bathandbody.c9e7477b4b6ec9cc0d7f.png",
     "static/media/ssence.png": "/static/media/ssence.8845ef6dcda697dda08f.png",
-    "static/media/resume.pdf": "/static/media/resume.d885e3be3a9676335d69.pdf",
     "static/media/farfetch.png": "/static/media/farfetch.d385d597243d89fdc278.png",
     "static/media/abn.png": "/static/media/abn.31a0352f64088acd191b.png",
     "static/media/proim.png": "/static/media/proim.6bc15c67cb11913cb451.png",
     "static/media/coronometer.png": "/static/media/coronometer.eae36c40ec4e935be1fd.png",
     "static/media/antar.png": "/static/media/antar.89cdbf3aa3aacd240522.png",
+    "static/media/fw18_1022_Harshal_Apsunde.pdf": "/static/media/fw18_1022_Harshal_Apsunde.e86b712614db5cd18114.pdf",
     "static/media/logo.png": "/static/media/logo.b85ac4003be55d0e6600.png",
     "static/media/netly.png": "/static/media/netly.59321920009b539a0a14.png",
     "static/media/csspn.png": "/static/media/csspn.32c35795db68a22f117b.png",
@@ -23,11 +23,11 @@
     "static/media/nodejsicon.png": "/static/media/nodejsicon.8bfc79071323173f5f4f.png",
     "index.html": "/index.html",
     "main.5acd5171.css.map": "/static/css/main.5acd5171.css.map",
-    "main.3a396737.js.map": "/static/js/main.3a396737.js.map",
+    "main.e76e066f.js.map": "/static/js/main.e76e066f.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5acd5171.css",
-    "static/js/main.3a396737.js"
+    "static/js/main.e76e066f.js"
   ]
 }
