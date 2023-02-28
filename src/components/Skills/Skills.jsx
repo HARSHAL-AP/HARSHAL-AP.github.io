@@ -10,7 +10,7 @@ import csspn from "./csspn.png"
 const Skills=()=>{
 return (
     <div id="skils">
-        <h1 className="heading">Skills</h1>
+        <h1 className="heading">Skills/Tools</h1>
         <div className="alltags">
         <div><img src={hticon} alt="" className="iconpngs"/></div>
         <div><img src={csspn} alt="" className="iconpngs"/></div>

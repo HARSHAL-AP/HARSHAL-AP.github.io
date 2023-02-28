@@ -4,7 +4,7 @@ const Fotter=()=>{
     return (
        <>
         <div className="fotter">
-            <h2>Designed & Built by Hrshal ❤️</h2>
+            <h2>Designed & Built by Harshal 😎</h2>
         </div>
         </>
     )

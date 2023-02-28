@@ -31,5 +31,15 @@ margin-top: 25px;
         border-radius: 10px;
         }
 
+        .caleboady>div{
+           
+            margin-top: 25px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .caleboady>div>img{
 
+                width: 90%;
+            }
 }

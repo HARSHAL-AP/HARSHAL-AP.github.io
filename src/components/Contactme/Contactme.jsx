@@ -5,9 +5,11 @@ function Contactme() {
   return (
     <div id="contactme">
       <div className="contactbiody">
+      
         <h2 className="mm">Contact me...</h2>
-        <h1 className="mmyname">Harshal Apsunde</h1>
+        <h1 className="mmyno">Harshal Apsunde</h1>
         <h3 className="mmyno">+91-7028-38-6059</h3>
+        <h3 className="mmyno">apsundeharshal129@gmail.com</h3>
         <div>
           <a href="https://github.com/HARSHAL-AP" target="_blank">
             <i class="fa-brands fa-github"></i>
