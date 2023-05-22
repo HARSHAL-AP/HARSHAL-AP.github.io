@@ -12,7 +12,7 @@ const Navbar = () => {
   const [isMobail, setisMobail] = useState(false);
   
   const togN=()=>{
-    window.open("https://drive.google.com/file/d/1HsL1hOdjH1F8GQRQpLlbGToDBnMV5Sp7/view?usp=sharing") ;
+    window.open("https://drive.google.com/file/d/1i0oyj1Ys5SwvW3FZurzfLUZLdtgiBEAh/view?usp=sharing") ;
   }
 
 
