@@ -87,7 +87,7 @@
  
   background-color: antiquewhite;
   padding: 10px;
-  border-radius: 79% 21% 46% 54% / 42% 40% 60% 58% ;
+ 
   background-color: rgba(48, 54, 66, 0);
   box-shadow:rgb(10 102 194) 0px 4px 8px -2px,rgb(10 102 194) 0px 0px 0px 1px;
   -webkit-animation-name: fadeInRight;
@@ -122,7 +122,7 @@
   }
   } 
 .avtardiv > img {
-  border-radius: 79% 21% 46% 54% / 42% 40% 60% 58% ;
+
   max-width: 300px;
  
 }

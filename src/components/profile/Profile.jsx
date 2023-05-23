@@ -3,8 +3,15 @@ import avtar2 from "./avtar2.jpg"
 import antar from "./antar.png"
 import style from "./Profile.css"
 import About from "./About"
+import avta from "./avta.png"
+import av2 from "./av2.png"
 import Projects from "../Project/Projects.jsx"  
 import fw18_1022_Harshal_Apsunde from "../Dawnload/fw18_1022_Harshal_Apsunde.pdf"
+//
+//
+//
+//
+//
 
 let arr=["FUll Stack Developer","Open Source Contrubution","MERN Stack Developer","Frontend Designer"]
 const Profile=()=>{
@@ -30,7 +37,7 @@ return (
         </div>
         
         <div className="avtardiv">
-            <img src={avtar} alt="" />
+            <img src={av2} alt="" />
             
         </div>
     </div>
