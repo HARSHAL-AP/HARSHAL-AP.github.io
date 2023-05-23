@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5acd5171.css",
-    "main.js": "/static/js/main.4767600e.js",
+    "main.css": "/static/css/main.14d3734d.css",
+    "main.js": "/static/js/main.0f44eeb3.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/dreambath.jpg": "/static/media/dreambath.a64ae683eba9066f3c03.jpg",
     "static/media/bathandbody.png": "/static/media/bathandbody.c9e7477b4b6ec9cc0d7f.png",
     "static/media/ssence.png": "/static/media/ssence.8845ef6dcda697dda08f.png",
+    "static/media/av2.png": "/static/media/av2.fc7c7a97b30046081625.png",
+    "static/media/avta.png": "/static/media/avta.76e5497ee07c2ad36fbe.png",
     "static/media/farfetch.png": "/static/media/farfetch.d385d597243d89fdc278.png",
     "static/media/fw18_1022_Harshal_Apsunde.pdf": "/static/media/fw18_1022_Harshal_Apsunde.e1330602a36ddc4e0bac.pdf",
     "static/media/abn.png": "/static/media/abn.31a0352f64088acd191b.png",
@@ -22,12 +24,12 @@
     "static/media/hurokuicon.png": "/static/media/hurokuicon.6ed5864b6d7cdbb8d45b.png",
     "static/media/nodejsicon.png": "/static/media/nodejsicon.8bfc79071323173f5f4f.png",
     "index.html": "/index.html",
-    "main.5acd5171.css.map": "/static/css/main.5acd5171.css.map",
-    "main.4767600e.js.map": "/static/js/main.4767600e.js.map",
+    "main.14d3734d.css.map": "/static/css/main.14d3734d.css.map",
+    "main.0f44eeb3.js.map": "/static/js/main.0f44eeb3.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5acd5171.css",
-    "static/js/main.4767600e.js"
+    "static/css/main.14d3734d.css",
+    "static/js/main.0f44eeb3.js"
   ]
 }
